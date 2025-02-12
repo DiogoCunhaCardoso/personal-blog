@@ -1,7 +1,7 @@
 # JWT Authentication Example with Node.js
 
 This is a simple JWT authentication setup using **Node.js**, **Express**, and **JWT**. This example includes **access tokens**, and basic **user login**.
-If you want me to further the code with **refresh tokens**, **cookies** and more, ask me o LinkedIn: https://www.linkedin.com/in/diogo-cunha-cardoso-b37242213/
+If you want me to further the code with **refresh tokens**, **cookies** and more, ask me on LinkedIn: https://www.linkedin.com/in/diogo-cunha-cardoso-b37242213/
 
 ## Getting Started
 
